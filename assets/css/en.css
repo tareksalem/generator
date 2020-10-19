@@ -1,0 +1,39 @@
+body {
+    direction: ltr !important;
+    text-align: left !important;
+}
+
+.mr-auto-en {
+    margin-right: auto !important;
+}
+
+.mr-lg-auto-en {
+    margin-left: auto !important;
+}
+
+.curr_dir {
+    text-align: left !important;
+    direction: ltr !important;
+}
+
+.dropdown_menu_curr_added {
+    right: 0 !important;
+    left: auto !important;
+}
+
+.lang_custome_dropdone {
+    padding-left: 0 !important;
+}
+
+.img_for_list {
+    margin-right: 5px !important;
+
+}
+ul.nav_padding_cust_lang > li{
+    padding-right: 5px !important;
+    padding-left: 0 !important;
+}
+ul.nav_padding_cust_lang > li:last-child{
+    padding-right: 0px !important;
+    padding-left: 0 !important;
+}
